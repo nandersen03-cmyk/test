@@ -1,0 +1,16 @@
+body{
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: black;
+
+}
+
+h2{
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline;
+}

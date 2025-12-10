@@ -1,0 +1,2362 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+	<!-- START head -->
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://eaganmn.com/xmlrpc.php" />
+
+		<link rel="shortcut icon" href="https://eaganmn.com/wp-content/uploads/2020/08/eagan-logo-rgb-panel1_13.png" />
+	
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://eaganmn.com/wp-content/uploads/2020/08/eagan-logo-rgb-panel1_13.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://eaganmn.com/wp-content/uploads/2020/08/eagan-logo-rgb-panel1_13.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://eaganmn.com/wp-content/uploads/2020/08/eagan-logo-rgb-panel1_13.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://eaganmn.com/wp-content/uploads/2020/08/eagan-logo-rgb-panel1_13.png" />
+	
+		<meta name="apple-mobile-web-app-title" content="Enjoy Eagan ">
+	
+	<!--[if IE 8 ]>
+	<link href="https://eaganmn.com/wp-content/themes/HighendWP/css/ie8.css" media="screen" rel="stylesheet" type="text/css">
+	<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/html5shiv.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" href="https://eaganmn.com/wp-content/themes/HighendWP-child/style.css" type="text/css" media="screen,print" />
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Chili&#039;s - Eagan Minnesota</title><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin/><link rel="preconnect" href="https://fonts.googleapis.com"/><style type="text/css">@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/droidserif/v20/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/droidserif/v20/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf) format('truetype');
+}
+</style>
+	<link rel="canonical" href="https://eaganmn.com/places/chilis/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Chili&#039;s - Eagan Minnesota" />
+	<meta property="og:description" content="Enjoy something for everyone from our famous Baby Back Ribs, Craft Burgers, Fajitas, Chicken Crispers or Smokehouse Combos. All Day Happy Hour: 2 for 1 Domestic Tap Beer, Call and [&hellip;]" />
+	<meta property="og:url" content="https://eaganmn.com/places/chilis/" />
+	<meta property="og:site_name" content="Eagan Minnesota" />
+	<meta property="article:modified_time" content="2020-11-24T18:21:55+00:00" />
+	<meta property="og:image" content="https://i0.wp.com/eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg?fit=500%2C300&ssl=1" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://eaganmn.com/places/chilis/","url":"https://eaganmn.com/places/chilis/","name":"Chili's - Eagan Minnesota","isPartOf":{"@id":"https://eaganmn.com/#website"},"primaryImageOfPage":{"@id":"https://eaganmn.com/places/chilis/#primaryimage"},"image":{"@id":"https://eaganmn.com/places/chilis/#primaryimage"},"thumbnailUrl":"https://eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg","datePublished":"2019-07-09T22:09:49+00:00","dateModified":"2020-11-24T18:21:55+00:00","breadcrumb":{"@id":"https://eaganmn.com/places/chilis/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://eaganmn.com/places/chilis/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://eaganmn.com/places/chilis/#primaryimage","url":"https://eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg","contentUrl":"https://eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg","width":500,"height":300},{"@type":"BreadcrumbList","@id":"https://eaganmn.com/places/chilis/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://eaganmn.com/"},{"@type":"ListItem","position":2,"name":"Chili&#8217;s"}]},{"@type":"WebSite","@id":"https://eaganmn.com/#website","url":"https://eaganmn.com/","name":"Eagan Minnesota","description":"Minneapolis - Saint Paul Area Fun","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://eaganmn.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="Eagan Minnesota &raquo; Feed" href="https://eaganmn.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eagan Minnesota &raquo; Comments Feed" href="https://eaganmn.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Eagan Minnesota &raquo; iCal Feed" href="https://eaganmn.com/events/?ical=1" />
+<link rel='stylesheet' id='scap.flashblock-css' href='https://eaganmn.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css' type='text/css' media='all' />
+<link rel='stylesheet' id='scap.player-css' href='https://eaganmn.com/wp-content/plugins/compact-wp-audio-player/css/player.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-style-css' href='https://eaganmn.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css' href='https://eaganmn.com/wp-content/plugins/events-calendar-pro/build/css/tribe-events-pro-mini-calendar-block.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://eaganmn.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://eaganmn.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://eaganmn.com/wp-includes/css/dist/components/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://eaganmn.com/wp-includes/css/dist/preferences/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://eaganmn.com/wp-includes/css/dist/block-editor/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='https://eaganmn.com/wp-content/plugins/popup-maker/dist/packages/block-library-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='h5ap-audioplayer-style-css' href='https://eaganmn.com/wp-content/plugins/html5-audio-player/build/blocks/audioplayer/view.css' type='text/css' media='all' />
+<link rel='stylesheet' id='h5ap-radio-player-style-css' href='https://eaganmn.com/wp-content/plugins/html5-audio-player/build/blocks/radio-player/view.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bplugins-plyrio-css' href='https://eaganmn.com/wp-content/plugins/html5-audio-player/assets/css/plyr-v3.7.2.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cpsh-shortcodes-css' href='https://eaganmn.com/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css' href='https://eaganmn.com/wp-content/plugins/essential-grid/public/assets/css/settings.css' type='text/css' media='all' />
+
+
+
+<link rel='stylesheet' id='h5ap-public-css' href='https://eaganmn.com/wp-content/plugins/html5-audio-player/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://eaganmn.com/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}#tripeag{color:#FFFFFF}#tripeag:hover{color:#000000}
+</style>
+<link rel='stylesheet' id='rt-fontawsome-css' href='https://eaganmn.com/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rt-tpg-css' href='https://eaganmn.com/wp-content/plugins/the-post-grid/assets/css/thepostgrid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css' href='https://eaganmn.com/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hb_responsive-css' href='https://eaganmn.com/wp-content/themes/HighendWP/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hb_icomoon-css' href='https://eaganmn.com/wp-content/themes/HighendWP/css/icomoon.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js" id="scap.soundmanager2-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/essential-grid/public/assets/js/lightbox.js" id="themepunchboxext-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js" id="essential-grid-essential-grid-script-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" id="revmin-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://eaganmn.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://eaganmn.com/wp-json/wp/v2/places/8108" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eaganmn.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://eaganmn.com/?p=8108' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://eaganmn.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feaganmn.com%2Fplaces%2Fchilis%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://eaganmn.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feaganmn.com%2Fplaces%2Fchilis%2F&#038;format=xml" />
+<!-- HFCM by 99 Robots - Snippet # 1: Header Scripts -->
+<meta name="p:domain_verify" content="2f3f891ccbe07f26d299f885b41c860d"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLX3TB2');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+        <style>
+            .mejs-container:has(.plyr) {
+                height: auto;
+                background: transparent
+            }
+
+            .mejs-container:has(.plyr) .mejs-controls {
+                display: none
+            }
+
+            .h5ap_all {
+                --shadow-color: 197deg 32% 65%;
+                border-radius: 6px;
+                box-shadow: 0px 0px 9.6px hsl(var(--shadow-color)/.36), 0 1.7px 1.9px 0px hsl(var(--shadow-color)/.36), 0 4.3px 1.8px -1.7px hsl(var(--shadow-color)/.36), -0.1px 10.6px 11.9px -2.5px hsl(var(--shadow-color)/.36);
+                margin: 16px auto;
+            }
+
+            .h5ap_single_button {
+                height: 5050;
+            }
+        </style>
+    		<style>
+			span.h5ap_single_button {
+				display: inline-flex;
+				justify-content: center;
+				align-items: center;
+			}
+
+			.h5ap_single_button span {
+				line-height: 0;
+			}
+
+			span#h5ap_single_button span svg {
+				cursor: pointer;
+			}
+
+			#skin_default .plyr__control,
+			#skin_default .plyr__time {
+				color: #4f5b5f			}
+
+			#skin_default .plyr__control:hover {
+				background: #1aafff;
+				color: #f5f5f5			}
+
+			#skin_default .plyr__controls {
+				background: #f5f5f5			}
+
+			#skin_default .plyr__controls__item input {
+				color: #1aafff			}
+
+			.plyr {
+				--plyr-color-main: #4f5b5f			}
+
+			/* Custom Css */
+					</style>
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '29ce4f9d8c';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://eaganmn.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		        <style>
+            :root {
+                --tpg-primary-color: #0d6efd;
+                --tpg-secondary-color: #0654c4;
+                --tpg-primary-light: #c4d0ff
+            }
+
+                    </style>
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://eaganmn.com"><link rel="alternate" href="https://eaganmn.com/wp-json/tribe/events/v1/" />		<style type="text/css">
+		
+		::selection { background:#21433a; color:#FFF; }
+		::-moz-selection { background:#21433a; color:#FFF; }
+
+		a:hover, .user-entry a,
+		#lang_sel_footer a:hover,
+		.widget_calendar tbody a,
+		#header-bar a:hover,
+		.minimal-skin #main-nav > li a:hover,
+		#header-inner.stuck .second-skin #main-nav > li > a:hover,
+		.minimal-skin #main-nav li.current-menu-item > a,
+		.minimal-skin #main-nav li.sfHover > a, 
+		.minimal-skin #main-nav > li.current-menu-ancestor > a,
+		#close-fancy-search,
+		article.search-entry a.search-thumb:hover,
+		.map-info-section .minimize-section:hover,
+		.hb-blog-small h3.title a:hover,
+		.post-header .post-meta-info a:hover,
+		.post-content h2.title a,
+		.like-holder:hover i,
+		.comments-holder:hover i,
+		.share-holder:hover i,
+		.comments-holder a:hover,
+		.hb-blog-grid .comments-holder:hover, 
+		.hb-blog-grid .like-holder:hover,
+		.most-liked-list li:hover .like-count,
+		.simple-read-more:hover,
+		.team-member-box:hover .team-member-name,
+		.testimonial-author .testimonial-company:hover,
+		.close-modal:hover,
+		.hb-tabs-wrapper .nav-tabs li.active a,
+		.hb-icon,
+		.hb-logout-box small a:hover,
+		.hb-gallery-sort li.hb-dd-header:hover strong,
+		.filter-tabs li a:hover,
+		ul.social-list li a:hover,
+		div.pp_default .pp_close:hover,
+		#main-wrapper .hb-woo-product.sale .price,
+		.woocommerce .star-rating span, .woocommerce-page .star-rating span,
+		.woocommerce-page div.product p.price, .hb-focus-color { color:#21433a; }
+
+		.hb-focus-color, 
+		.light-text a:hover, 
+		#header-bar.style-1 .top-widget .active,
+		#header-bar.style-2 .top-widget .active, 
+		.top-widget:hover > a,
+		#header-bar.style-2 .top-widget:hover > a,
+		.top-widget.social-list a:hover,
+		#main-wrapper .hb-dropdown-box a:hover,
+		.social-list ul li a:hover,
+		.light-menu-dropdown #main-nav ul.sub-menu li a:hover,
+		.light-menu-dropdown #main-nav ul.sub-menu li.sfHover > a,
+		.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-item > a,
+		.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-ancestor > a,
+		#fancy-search .ui-autocomplete li a:hover,
+		#fancy-search .ui-autocomplete li:hover span.search-title,
+		#fancy-search .ui-autocomplete li a,
+		.share-holder .hb-dropdown-box ul li a:hover,
+		.share-holder .hb-dropdown-box ul li a:hover i,
+		.share-holder.active,
+		.share-holder.active i,
+		.author-box .social-list li a:hover,
+		#respond small a:hover,
+		.commentmetadata a:hover time,
+		.comments-list .reply a,
+		#footer.dark-style a:hover,
+		.feature-box i.ic-holder-1,
+		.feature-box.alternative i.ic-holder-1,
+		.portfolio-simple-wrap .standard-gallery-item:hover .portfolio-description h3 a,
+		#copyright-wrapper a:hover,
+		.hb-effect-1 #main-nav > li > a::before, 
+		.hb-effect-1 a::after,
+		.third-skin.hb-effect-1 #main-nav > li > a:hover, 
+		.third-skin.hb-effect-1 #main-nav > li.current-menu-item > a, 
+		.third-skin.hb-effect-1 #main-nav > li.sfHover > a,
+		.second-skin.hb-effect-9 #main-nav #nav-search > a:hover,
+		.hb-effect-10 #main-nav > li > a:hover, 
+		.hb-effect-10 #main-nav > li #nav-search a:hover, 
+		.hb-effect-10 #main-nav > li.current-menu-item > a,
+		.like-holder:hover,
+		.comments-holder:hover,
+		.share-holder:hover,
+		#main-nav ul.sub-menu li a:hover,
+		.hb-side-nav li.menu-item-has-children:hover > a,
+		.hb-side-nav li a:hover, .hb-side-nav li.current-menu-item > a, .hb-side-nav li.current-menu-ancestor > a { color: #21433a!important; }
+
+		.light-style .feature-box i.ic-holder-1,
+		.light-style .feature-box.alternative i.ic-holder-1,
+		.light-style .feature-box h4.bold {
+			color: #f9f9f9 !important;
+		}
+
+		.light-style .feature-box-content p {
+			color: #ccc;
+		}
+
+		.like-holder.like-active i, .like-holder.like-active { color: #da4c26 !important; }
+
+		.hb-icon-container,
+		.feature-box i.ic-holder-1 {
+			border-color: #21433a;
+		}
+
+		.main-navigation.default-skin #main-nav > li > a:hover > span, 
+		.main-navigation.default-skin #main-nav > li.current-menu-item > a > span, 
+		.main-navigation.default-skin #main-nav > li.sfHover > a > span,
+		.simple-read-more,
+		.team-member-box.tmb-2:hover .team-member-description,
+		.hb-logout-box small a:hover,
+		#pre-footer-area,
+		span[rel="tooltip"] { border-bottom-color: #21433a; }
+
+		.hb-pricing-item:hover,
+		.hb-process-steps ul:before,
+		.pace .pace-activity,
+		.wpb_tabs .nav-tabs li.active a,
+		#hb-preloader .spinner, .default-loading-icon:before {
+			border-top-color: #21433a;
+		}
+
+		blockquote.pullquote,
+		.author-box,
+		#main-wrapper .widget_nav_menu ul.menu li.current-menu-item > a,
+		.hb-callout-box h3,
+		.pace .pace-activity,
+		.hb-non-transparent .hb-side-nav > li > a:hover,
+		.hb-non-transparent .hb-side-nav > li.current-menu-item > a, 
+		.hb-non-transparent .hb-side-nav > li.current-menu-ancestor > a, 
+		.hb-non-transparent .hb-side-nav > li.sfHover > a,
+		.hb-tabs-wrapper.tour-style.left-tabs > .nav-tabs > li.active a,
+		.light-menu-dropdown #main-nav ul.sub-menu li a:hover,.light-menu-dropdown #main-nav ul.sub-menu li.sfHover > a,.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-item > a, .light-menu-dropdown #main-nav ul.sub-menu li.current-menu-ancestor > a, .light-menu-dropdown #main-nav ul.sub-menu li.sfHover > a {
+			border-left-color: #21433a;
+		}
+
+		#main-wrapper .right-sidebar .widget_nav_menu ul.menu li.current-menu-item > a,
+		.hb-tabs-wrapper.tour-style.right-tabs > .nav-tabs > li.active a{
+			border-right-color: #21433a;
+		}
+
+		#to-top:hover,
+		#contact-button:hover, 
+		#contact-button.active-c-button,
+		.pagination ul li span, 
+		.single .pagination span,
+		.single-post-tags a:hover,
+		div.overlay,
+		.portfolio-simple-wrap .standard-gallery-item:hover .hb-gallery-item-name:before,
+		.progress-inner,
+		.woocommerce .wc-new-badge,
+		#main-wrapper .coupon-code input.button:hover,
+		.woocommerce-page #main-wrapper button.button:hover,
+		#main-wrapper input.checkout-button, .side-nav-bottom-part ul li a:hover,
+		#main-wrapper #place_order { background-color:#21433a; }
+
+		#header-dropdown .close-map:hover,
+		#sticky-shop-button:hover,
+		#sticky-shop-button span,
+		.quote-post-format .quote-post-wrapper a,
+		.link-post-format .quote-post-wrapper a,
+		.status-post-format .quote-post-wrapper a,
+		span.highlight,
+		mark,
+		.feature-box:hover:not(.standard-icon-box) .hb-small-break,
+		.content-box i.box-icon,
+		.hb-button, input[type=submit], a.read-more,
+		.hb-effect-2 #main-nav > li > a > span::after,
+		.hb-effect-3 #main-nav > li > a::before,
+		.hb-effect-4 #main-nav > li > a::before,
+		.hb-effect-6 #main-nav > li > a::before,
+		.hb-effect-7 #main-nav > li > a span::after,
+		.hb-effect-8 #main-nav > li > a:hover span::before,
+		.hb-effect-9 #main-nav > li > a > span::before,
+		.hb-effect-9 #main-nav > li > a > span::after,
+		.hb-effect-10 #main-nav > li > a:hover span::before, 
+		.hb-effect-10 #main-nav > li.current-menu-item > a span::before, 
+		#main-nav > li.sfHover > a span::before, 
+		#main-nav > li.current-menu-ancestor > a span::before,
+		.pace .pace-progress,
+		#main-wrapper .hb-bag-buttons a.checkout-button {background: #21433a;}
+
+		.filter-tabs li.selected a, #main-wrapper .single_add_to_cart_button:hover {
+			background: #21433a !important;
+		}
+
+		table.focus-header th,
+		.second-skin #main-nav > li a:hover,
+		.second-skin #main-nav > li.current-menu-item > a,
+		.second-skin #main-nav > li.sfHover > a,
+		#header-inner.stuck .second-skin #main-nav > li > a:hover,
+		.second-skin #main-nav > li.current-menu-item > a,
+		.crsl-nav a:hover,
+		.feature-box:hover i.ic-holder-1 {
+			background: #21433a;
+			color: #FFF;
+		}
+
+
+		.load-more-posts:hover,
+		.dropcap.fancy,
+		.tagcloud > a:hover,
+		.hb-icon.hb-icon-medium.hb-icon-container:hover {
+			background-color: #21433a;
+			color: #FFF;
+		}
+
+		.filter-tabs li.selected a {
+			border-color: #21433a !important;
+		}
+
+		.hb-second-light:hover {background:#FFF!important;color:#21433a!important;}
+
+		.hb-effect-11 #main-nav > li > a:hover::before,
+		.hb-effect-11 #main-nav > li.sfHover > a::before,
+		.hb-effect-11 #main-nav > li.current-menu-item > a::before,
+		.hb-effect-11 #main-nav > li.current-menu-ancestor > a::before  {
+			color: #21433a;
+			text-shadow: 7px 0 #21433a, -7px 0 #21433a;
+		}
+
+		#main-wrapper .product-loading-icon {
+			background: rgba(33,67,58,0.85);
+		}
+
+		.hb-single-next-prev a:hover {
+			background: #21433a;	
+		}
+
+		.hb-more-details:hover, .hb-buy-button:hover {
+			color:#FFF;
+			background: rgba(33,67,58,0.8);
+		}
+
+		.hb-button, input[type=submit]{
+			box-shadow: 0 3px 0 0 #001108;
+		}
+
+		.hb-button.special-icon i,
+		.hb-button.special-icon i::after {
+			background:#001108;
+		}
+
+		#main-wrapper a.active-language, #main-wrapper a.active-language:hover {color: #aaa !important; }
+		.feature-box:hover:not(.standard-icon-box):not(.alternative) i, #main-wrapper .hb-bag-buttons a:hover, #main-wrapper .hb-dropdown-box .hb-bag-buttons a:hover,
+		#main-wrapper .social-icons.dark li a:hover i, #main-wrapper #footer .social-icons.dark li a i, 
+		#footer.dark-style ul.social-icons.light li a:hover,
+		#main-wrapper .hb-single-next-prev a:hover {color: #FFF !important;}#header-inner-bg {background-color: #006341;}#header-inner.stuck #header-inner-bg { background-color: #006341; }#header-inner.nav-type-2 .main-navigation { border-top-color: #000000; }#header-inner-bg {border-bottom-color: #000000}#main-nav li#nav-search::before {background:#000000}#header-inner.nav-type-2 #main-nav > li:first-child > a, #header-inner.nav-type-2 li#nav-search > a { border-left-color: #000000; }#header-inner.nav-type-2 #main-nav > li > a { border-right-color: #000000; }#header-inner.stuck #header-inner-bg { border-bottom-color:#000000 !important; }#header-inner.stuck #main-nav li#nav-search::before {background: #000000}#main-wrapper #main-nav > li > a, #main-wrapper #header-inner-bg { color:#ffffff; }body:not(.page-template-page-presentation-fullwidth) #main-wrapper #main-nav > li > a, #main-wrapper #header-inner-bg { color:#ffffff !important; }#main-wrapper #header-inner.stuck #main-nav > li > a, #main-wrapper #header-inner.stuck #header-inner-bg { color:#ffffff !important; }#footer, body #lang_sel_footer { background-color: #006341; }#footer { color: #dddddd; }#main-wrapper #footer {color: #dddddd;}#copyright-wrapper, #copyright-text {color: #ffffff;}#main-wrapper .hb-main-content a, select { color: #009a44 }#main-wrapper .hb-main-content a:hover {color: #21433a;}h1, h1.extra-large, h1 a, article.single h1.title { color: #006600; }.hb-page-title.dark-text h1, .hb-page-title.light-text h1, p.hb-text-large { color: #006600!important; }#main-wrapper h1.hb-bordered-heading {color: #006600; border-color: #006600;}h2, #hb-page-title h2 { color: #21433a; }#main-wrapper h2.hb-bordered-heading {color: #21433a; border-color: #21433a;}h3, #respond h3, h3.title-class, .hb-callout-box h3, .hb-gal-standard-description h3 { color: #21433a; }#main-wrapper h3.hb-bordered-heading {color: #21433a; border-color: #21433a;}h4, .widget-item h4, .content-box h4, .feature-box h4.bold { color: #006600; }#main-wrapper h4.hb-bordered-heading {color: #006600; border-color: #006600;}#header-bar {
+    border-bottom: dashed 1px #35675a;
+    line-height: 36px;
+      background: url('https://eaganmn.com/wp-content/uploads/2015/08/squairy_light.png');
+}
+    
+#header-bar a {
+  color: #21433a;
+  border-bottom: none;
+  display: inline-block;
+  margin-right: 20px;
+  font-family: sans-serif;
+}
+
+footer{
+    display: block;
+    padding: 50px 0;
+    border-top: solid 2px #8da690;
+}
+.textwidget {
+    border: 0px !important;
+    background: transparent !important;
+}
+
+#footer.dark-style .widget-item h4, #hb-side-section .widget-item h4{
+    font-size: 1.3em;
+}
+.leftf1{
+    display: inline-block;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+.leftf1 a{
+    display: block;
+    clear: both;
+    padding: 5px 0;
+    border-bottom: #8da690 1px dashed;
+}
+.rightf1{
+    display: inline-block;
+    width: 170px;
+    float: left;
+    margin-left: 0px;
+}
+.rightf1 a{
+    display: block;
+    clear: both;
+    padding: 5px 0;
+    border-bottom: #8da690 1px dashed;
+}
+.leftf2{
+    display: inline-block;
+    width: 170px;
+    float: left;
+    margin-right: 60px;
+}
+.leftf2 a{
+    display: block;
+    clear: both;
+    padding: 5px 0;
+    border-bottom: #8da690 1px dashed;
+}
+.rightf2{
+    display: inline-block;
+    width: 100px;
+    float: left;
+    margin-left: 0px;
+}
+.rightf2 a{
+    display: block;
+    clear: both;
+    border: #8da690 3px solid;
+    opacity: 0.8;
+}
+.rightf2 a:hover{
+    border: #8da690 1px solid;
+    opacity: 0.99;
+}
+.leftf3{
+    display: inline-block;
+    width: 170px;
+    float: left;
+    margin-right: 30px;
+}
+.leftf3 a{
+    display: block;
+    clear: both;
+    padding: 5px 0;
+    border-bottom: #8da690 1px dashed;
+}
+.rightf3{
+    display: inline-block;
+    width: 130px;
+    float: left;
+    margin-left: 0px;
+}
+.rightf3 a{
+    display: block;
+    clear: both;
+    border: #8da690 3px solid;
+    opacity: 0.8;
+}
+.rightf3 a:hover{
+    border: #8da690 1px solid;
+    opacity: 0.99;
+}
+
+#header-bar .top-widget {
+    margin-right: 0px;
+    padding-right: 0px;
+    vertical-align: middle;
+    margin-bottom: -1px;
+}
+
+#header-bar, #header-bar .top-widget {
+    font-size: 14px;
+    position: relative;
+    z-index: 999;
+    border: 0px;
+}
+.hb-moon-arrow-right-5{
+    display: none;
+}
+#main-nav li a{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+/*Footer Widget Menu*/
+#main-wrapper .widget_nav_menu ul.menu li a {
+  padding: 5px 7px;
+  border-left: solid 2px transparent;
+  text-overflow: ellipsis;
+  background: none;
+  color: #333;
+}
+#menu-explore{
+    border: none;
+    background: none;
+}
+#menu-explore li{
+    border: none;
+    background: none;
+}
+/*eNewsletter Table*/
+.textwidget{
+    border: solid 1px #8da690;
+    background: #8da690;
+}
+.textwidget table td{
+    border: none;
+    color: #333;
+}
+.spotlight{
+    color: #333;
+    font-size: 16px;
+}
+.featured-image{
+    display: inline-block;
+    float: right;
+    width: 400px;
+    height: 200px;
+}
+.post-header .post-meta-info {
+    display: none;
+}
+#main-content {
+  padding-top: 20px;
+  overflow: hidden;
+  position: relative;
+  z-index: 997;
+}
+.author-box {
+    display: none;
+}
+.hb-separator-extra {
+    display: none;
+    width: 100%;
+    height: 1px;
+    border-top: 1px solid #EBEBEB;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.vc_custom_1437622935616 {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+  margin-bottom: 0px;
+}
+#main-content .wpb_row, #main-content .wpb_content_element, #main-content ul.wpb_thumbnails-fluid > li, #main-content .last_toggle_el_margin, #main-content .wpb_button {
+    margin-bottom: 0px!important;
+}
+.vc_btn3-container.vc_btn3-center .vc_btn3-block.vc_btn3-size-xs {
+    font-size: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+.vc_gitem-post-data {
+    margin-bottom: 1px;
+    
+}
+#main-content .col-12.hb-main-content {
+    padding-bottom: 0px;
+}
+/*banner on inner pages w/ par*/
+.bkgdbanner{
+    height: 150px;
+}
+.clearfix .hb-parallax-wrapper{
+    height: 150px;
+}
+
+
+.content-box.left-icon {
+    width: 100%;
+    padding: 10px 10px 10px 40px;
+    text-align: left;
+}
+
+.box-phone{
+        font-family:arial, sans-serif;
+        color: #333 !important;
+        line-height: 18px;
+        margin: 15px 0;
+}
+.box-website{
+        font-family:arial, sans-serif;
+        color: #333 !important;
+        line-height: 18px;
+        margin: 15px 0;
+}
+.amenities{
+    margin-bottom: 20px;
+    width: 98%;
+}
+.amenities .content-box i.box-icon{
+    background:#21433a;
+}
+/*bottom share area shown on posts*/
+#main-wrapper .bottom-meta-section{
+    display: none;
+}
+.listing{
+    display:block;
+    width: 100%;
+    height: 100%;
+}
+/****Button Styles****/
+.btn-booknow{
+    display: block;
+    margin: 15px 0;
+	
+}
+.btn-booknow:hover{
+    opacity: 0.8;
+}
+.dottedsep{
+    padding-bottom: 15px;
+}
+.hb-button, input[type="submit"], a.read-more {
+    position: relative;
+    display: inline-block;
+    margin-right: 0px;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    font-family: "source_sans_probold",Arial;
+    font-size: 12px;
+    line-height: 1.3;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFF !important;
+    padding: 12px;
+    overflow: hidden;
+    border-radius: 2px;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+}
+.hb-box-cont-header {
+    display: block;
+    border-bottom: 1px solid #EBEBEB;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px 7px;
+    font-family: "source_sans_prosemibold",sans-serif;
+    text-transform: uppercase;
+}
+article.single h1.title {
+    text-transform: none;
+    line-height: 1.3em;
+    margin-bottom: 5px;
+    color: #000000;
+    letter-spacing: 0px;
+    font-size: 30px !important;
+   
+}
+
+
+/*event list*/
+.tribe-events-list .tribe-events-event-image {
+    float: right;
+    width: 30%;
+    margin: 0 0 0 25px;
+}
+.tribe-events-loop .tribe-events-event-meta {
+    float: left;
+    clear: both;
+    border: 0;
+    margin: 5px 0 15px;
+    line-height: 1.5;
+    font-size: 14px;
+    font-weight: 700;
+    overflow: visible;
+}
+.tribe-events-list h2.tribe-events-list-event-title {
+    margin: 0;
+    padding: 0;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: 0;
+    border: none;
+    float: left;
+    display: inline;
+}
+#tribe-events .tribe-events-button, .tribe-events-button {
+    background-color: #78a382;
+    color: #fff;
+    background-image: none;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 6px 9px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: 0;
+    line-height: normal;
+    cursor: pointer;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-decoration: none;
+    display: inline-block;
+    zoom: 1;
+    vertical-align: middle;
+}
+.url{
+    color: #21433a !important;
+}
+.url:hover{
+    color: #21433a !important;
+}
+.tribe-events-venue-details a{
+    color: #006600 !important;
+    font-weight: 500;
+}
+.tribe-events-venue-details a:hover{
+    color: #78a382 !important;
+}
+.tribe-events-list h2.tribe-events-page-title {
+    margin-bottom: 0px;
+}
+h2.tribe-events-page-title {
+    font-size: 26px;
+    font-weight: 500;
+    color: #21433a !important;
+    position: relative;
+    z-index: 0;
+    margin-bottom: 0 !important;
+    text-align: center;
+    clear: none;
+}
+#tribe-events-bar {
+    width: 100%;
+    min-width: 220px;
+    margin-bottom: 15px;
+    height: auto;
+    position: relative;
+    clear: none;
+}
+#tribe-bar-form {
+    background: #f5f5f5; 
+    position: relative;
+    padding: 15px;
+    margin: 0;
+    width: 100%;
+    border: solid 1px #ccc;
+}
+.tribe-bar-views-inner {
+    padding: 15px 8px 45px;
+    background: transparent;
+    margin: 0;
+}
+#tribe-bar-views .tribe-bar-views-option.tribe-bar-active, #tribe-bar-views .tribe-bar-views-option:first-child, #tribe-bar-views.tribe-bar-views-open .tribe-bar-views-option {
+    display: none;
+}
+.tribe-bar-submit {
+    float: left;
+    width: 25%;
+    margin-bottom: 0;
+    margin-left: 10px;
+    padding: 15px;
+    margin-top: 15px;
+}
+#tribe-bar-form .tribe-bar-submit input[type="submit"] {
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background: #21433a none repeat scroll 0% 0%;
+    border: medium none;
+    border-radius: 0px;
+}
+/*find events*/
+.hb-button, input[type="submit"], a.read-more {
+    position: relative;
+    display: inline-block;
+    margin-right: 0px;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    font-family: "source_sans_probold",Arial;
+    font-size: 12px;
+    line-height: 1.3;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #f5f5f5 !important;
+    padding: 12px;
+    overflow: hidden;
+    border-radius: 2px;
+}
+#tribe-bar-form label {
+    display: block;
+    font-size: 13px;
+    line-height: 1;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 5px;
+    padding: 0;
+    color: #006600;
+}
+/****buttons on filter es grid**/
+.minimal-light .esg-filterbutton, .minimal-light .esg-navigationbutton, .minimal-light .esg-sortbutton, .minimal-light .esg-cartbutton a {
+    background: #8da690 !important;
+    color: #fff !important;
+}
+.hb-testimonial {
+    padding: 20px;
+    border: solid 1px #ebebeb;
+    background: #FFF;
+    margin-bottom: 10px;
+    position: relative;
+}
+.hb-testimonial-box{
+    margin-bottom: 15px !important;
+}
+#main-content ul li {
+    list-style-type: disc;
+    margin-left: 14px;
+}
+/*-----buttons-----*/
+.btn-drkGreen a{ background: inherit; display: inherit; width: inherit; text-transform: uppercase; color: inherit; font-size: 1.2em !important;}
+
+.btn-drkGreen a:hover{background-color: #999999 !important; border: 1px solid #21433a !important;}
+
+.btn-drkGreen{ display: block; background: #21433a; color: #fff !important; padding: 6px 14px; border: 1px none #999999; border-radius: 8px; text-align: center; text-transform: uppercase; font-size: 1.1em;}
+
+.btn-drkGreen:hover{background: #999999; border: 1px solid #21433a;}
+    
+.floatright{
+    float: right;
+}
+/********************************Message Box********************************/
+.vc_color-white.vc_message_box .vc_message_box-icon {color: #21433A !important;}
+.vc_color-white.vc_message_box {color: #333; background: #f5f5f5;}
+
+.tribe-events-list .tribe-events-event-image{
+    float: right !important;
+}
+
+.tribe-events-loop .tribe-events-content{
+    float: left !important;
+    width: 60% !important;
+}
+
+#custom_html-3 > div, #custom_html-4 > div, #custom_html-5 > div, #custom_html-6 > div, #custom_html-7 > div{
+    border-bottom: dashed 1px #fff !important;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+#custom_html-13 > div, #custom_html-14 > div, #custom_html-15 > div, #custom_html-16 > div, #custom_html-17 > div{
+    border-bottom: dashed 1px #fff !important;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}		</style>
+		<script type="text/javascript">var ajaxurl = "https://eaganmn.com/wp-admin/admin-ajax.php"</script>
+<!-- WordPress Facebook Integration Begin -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1334694303323097', {}, {
+    "agent": "wordpress-6.8.3-1.6.0"
+});
+
+fbq('track', 'PageView', {
+    "source": "wordpress",
+    "version": "6.8.3",
+    "pluginVersion": "1.6.0"
+});
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- WordPress Facebook Integration end -->
+      
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1334694303323097&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css">.heading{width:10sec;}</style><script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+select:not(#calc_shipping_country):not(#calc_shipping_state) {
+	border: 1px solid #000; !important;
+}
+input.gform_previous_button {
+	color: #000 !important;
+}
+.gform_wrapper ul.gfield_checkbox li label, .gform_wrapper ul.gfield_radio li label {
+	text-indent: 0 !important;
+}
+
+.gform_previous_button, .gform_next_button {
+	background: #8da690;
+	width: auto;
+	padding: 16px 16px 10px !important;
+	border-radius: 2px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	font-family: "source_sans_probold", Arial;
+	line-height: 1.3;
+	letter-spacing: 1.5px;
+	text-transform: uppercase;
+	color: #f5f5f5 !important;
+	box-shadow: 0 3px 0 0 #5b745e;
+	border: none;
+}
+
+.gform_previous_button:hover, .gform_next_button:hover {
+	color: rgba(255,255,255,1) !important;
+	box-shadow: 0 3px 0 0 rgba(0,0,0,1);
+	background: #323436;
+}
+
+#post-1007 > div > div.entry-content.clearfix > audio {
+	display: none;
+}
+
+#header-bar a {
+	color: #ffffff;
+}
+
+#header-bar {
+	background-color: #292929 !important;
+}
+
+.tribe-events-list-event-title{
+	float: left;
+}
+.tribe-bar-views-select{
+	height: Auto !important;
+  position: static !important;
+	display: block !important;
+}
+
+article.single h1.title {
+    color: #000000;
+}
+
+#mobile-menu ul#menu-topnav{
+	margin-bottom: 60px !important;
+}
+
+.column-tmm {
+  float: left;
+  width: 60%;
+  padding: 5px;
+  /*height: 300px;*/
+}
+
+.column-tmm-2 {
+  float: center;
+  width: 30%;
+  padding: 5px;
+  /*height: 300px;*/
+}
+
+.row-tmm:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.category-224 .col-9.hb-equal-col-height.hb-main-content {
+    margin-top: 30px;
+}
+.category-224 .hb-separator.extra-space {
+    display: none;
+}
+@media (min-width: 890px) {
+	.category-224 img.love-eagan.alignright.wp-image-15606.size-full {
+    width: 33% !important;
+}
+}
+#post-15569 .featured-image {
+    display: none;
+}
+
+#visit_widget_button {
+  display: none !important;
+}
+
+.tribe-events li {
+    list-style: none !important;
+}
+
+input#tribe-events-events-bar-keyword {
+    padding-left: 40px !important;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<!-- Theme Options Font Settings -->
+	<style type="text/css">
+	body, .team-position, .hb-single-next-prev .text-inside, .hb-dropdown-box.cart-dropdown .buttons a, input[type=text], textarea, input[type=email], input[type=password], input[type=tel], #fancy-search input[type=text], #fancy-search .ui-autocomplete li .search-title, .quote-post-format .quote-post-wrapper blockquote, table th, .hb-button, input[type=submit], a.read-more, blockquote.pullquote, blockquote, .hb-skill-meter .hb-skill-meter-title, .hb-tabs-wrapper .nav-tabs li a, #main-wrapper .coupon-code input.button,#main-wrapper .form-row input.button,#main-wrapper input.checkout-button,#main-wrapper input.hb-update-cart,.woocommerce-page #main-wrapper .shipping-calculator-form-hb button.button, .hb-accordion-pane, .hb-accordion-tab {
+				font-family: "Roboto Condensed", sans-serif;
+				font-size: 16px;
+				line-height: 22px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}a.read-more, input[type=submit], .hb-caption-layer .hb-button, .hb-push-button-text, #pre-footer-area .hb-button, .hb-button, .hb-single-next-prev .text-inside, #main-wrapper .coupon-code input.button,#main-wrapper .form-row input.button,#main-wrapper input.checkout-button,#main-wrapper input.hb-update-cart,.woocommerce-page #main-wrapper .shipping-calculator-form-hb button.button { font-weight: 700; letter-spacing: 1px }h1, article.single h1.title {
+				font-family: "Oswald", sans-serif;
+				font-size: 35px;
+				line-height: 36px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}h2, #hb-page-title h2, .post-content h2.title {
+				font-family: "Oswald", sans-serif;
+				font-size: 28px;
+				line-height: 30px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}h3, h3.title-class, .hb-callout-box h3, .hb-gal-standard-description h3 {
+				font-family: "Oswald", sans-serif;
+				font-size: 24px;
+				line-height: 26px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}h4, .widget-item h4, #respond h3, .content-box h4, .feature-box h4.bold {
+				font-family: "Oswald", sans-serif;
+				font-size: 21px;
+				line-height: 24px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}h5, #comments h5, #respond h5, .testimonial-author h5 {
+				font-family: "Oswald", sans-serif;
+				font-size: 19px;
+				line-height: 22px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}h6, h6.special {
+				font-family: "Oswald", sans-serif;
+				font-size: 17px;
+				line-height: 22px;
+				letter-spacing: 0px;
+				font-weight: ;
+			}	</style>
+
+	</head>
+	<!-- END head -->
+
+	
+	<!-- START body -->
+	<body class="wp-singular places-template-default single single-places postid-8108 wp-theme-HighendWP wp-child-theme-HighendWP-child hb-sidebar-20 hb-modern-search hb-stretched-layout rttpg rttpg-7.8.8 radius-frontend rttpg-body-wrap rttpg-flaticon tribe-no-js page-template-highend-child wpb-js-composer js-comp-ver-8.7.2 vc_responsive" data-fixed-footer="0" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+	
+	
+	
+	<div id="mobile-menu-wrap">
+<form method="get" class="mobile-search-form" action="https://eaganmn.com/"><input type="text" placeholder="Search" name="s" autocomplete="off" /></form>
+<a class="mobile-menu-close"><i class="hb-icon-x"></i></a>
+<nav id="mobile-menu" class="clearfix">
+<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-10604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10604"><a href="https://eaganmn.com/deals-and-packages/">Deals &#038; Packages</a></li>
+<li id="menu-item-2065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2065"><a href="https://eaganmn.com/things-to-do/">Things to Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-2081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2081"><a href="https://eaganmn.com/things-to-do/attractions/"><span class="hb-moon-compass" style="padding-right: 5px;"></span>Attractions</a></li>
+	<li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2078"><a href="https://eaganmn.com/things-to-do/comedy/"><span class="hb-moon-mic-5" style="padding-right: 5px;"></span>Comedy</a></li>
+	<li id="menu-item-2079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2079"><a href="https://eaganmn.com/things-to-do/museums-historical-sites-art/"><span class="hb-moon-library-2" style="padding-right: 5px;"></span>Museums, Historical Sites and Art</a></li>
+	<li id="menu-item-2077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2077"><a href="https://eaganmn.com/things-to-do/parks-and-gardens/"><span class="hb-moon-tree" style="padding-right: 5px;"></span>Parks and Gardens</a></li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080"><a href="https://eaganmn.com/things-to-do/theatres/"><span class="hb-moon-movie-2" style="padding-right: 5px;"></span>Theatres</a></li>
+	<li id="menu-item-2067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2067"><a href="https://eaganmn.com/sports/"><span class="icon-trophy" style="padding-right: 5px;"></span>Sports</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2082"><a href="https://eaganmn.com/sports/fans/"><span class="hb-moon-megaphone" style="padding-right: 5px;"></span>Fans</a>
+		<ul class="sub-menu">
+			<li id="menu-item-8958" class="menu-item menu-item-type-post_type menu-item-object-places menu-item-has-children menu-item-8958"><a href="https://eaganmn.com/places/minnesota-vikings/"><span class="hb-moon-football" style="padding-right: 5px;"></span>Minnesota Vikings</a>
+			<ul class="sub-menu">
+				<li id="menu-item-14502" class="menu-item menu-item-type-post_type menu-item-object-places menu-item-14502"><a href="https://eaganmn.com/places/vikings-training-camp/">Vikings Training Camp</a></li>
+			</ul>
+</li>
+		</ul>
+</li>
+		<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076"><a href="https://eaganmn.com/sports/activities/"><span class="hb-moon-basketball" style="padding-right: 5px;"></span>Activities</a></li>
+		<li id="menu-item-2075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2075"><a href="https://eaganmn.com/groups-and-meetings/sport-facilities/"><span class="icon-trophy" style="padding-right: 5px;"></span>Sport Facilities</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2083"><a href="https://eaganmn.com/things-to-do/"><span class="icon-star" style="padding-right: 5px;"></span>View All</a></li>
+</ul>
+</li>
+<li id="menu-item-2086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2086"><a href="https://eaganmn.com/events/">Events</a></li>
+<li id="menu-item-2063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2063"><a href="https://eaganmn.com/dining/">Dining</a>
+<ul class="sub-menu">
+	<li id="menu-item-2074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2074"><a href="https://eaganmn.com/dining/american/"><span class="hb-moon-hamburger" style="padding-right: 5px;"></span>American</a></li>
+	<li id="menu-item-11913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11913"><a href="https://eaganmn.com/dining/asian/"><span class="icon-circle" style="padding-right: 5px;"></span>Asian</a></li>
+	<li id="menu-item-2071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2071"><a href="https://eaganmn.com/dining/cafes-and-bakeries/"><span class="icon-coffee" style="padding-right: 5px;"></span>Cafes and Bakeries</a></li>
+	<li id="menu-item-2072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2072"><a href="https://eaganmn.com/dining/mexican/"><span class="icon-food" style="padding-right: 5px;"></span>Mexican</a></li>
+	<li id="menu-item-11489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11489"><a href="https://eaganmn.com/dining/pizza/"><span class="hb-moon-pie" style="padding-right: 5px;"></span>Pizza</a></li>
+	<li id="menu-item-11490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11490"><a href="https://eaganmn.com/dining/takeout/"><span class="hb-moon-car" style="padding-right: 5px;"></span>Takeout</a></li>
+	<li id="menu-item-2084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2084"><a href="https://eaganmn.com/dining/"><span class="icon-star" style="padding-right: 5px;"></span>View All</a></li>
+</ul>
+</li>
+<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2064"><a href="https://eaganmn.com/hotels/">Hotels</a>
+<ul class="sub-menu">
+	<li id="menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2068"><a href="https://eaganmn.com/deals-and-packages/"><span class="icon-tag" style="padding-right: 5px;"></span>Deals and Packages</a></li>
+	<li id="menu-item-2069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2069"><a href="https://eaganmn.com/hotels/sleep-and-fly/"><span class="icon-plane" style="padding-right: 5px;"></span>Sleep and Fly</a></li>
+	<li id="menu-item-2085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2085"><a href="https://eaganmn.com/hotels/"><span class="icon-star" style="padding-right: 5px;"></span>View All</a></li>
+</ul>
+</li>
+<li id="menu-item-2066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2066"><a href="https://eaganmn.com/shopping/">Shopping</a>
+<ul class="sub-menu">
+	<li id="menu-item-8960" class="menu-item menu-item-type-post_type menu-item-object-places menu-item-8960"><a href="https://eaganmn.com/places/twin-cities-premium-outlets/"><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Twin Cities Premium Outlets</a></li>
+	<li id="menu-item-8961" class="menu-item menu-item-type-post_type menu-item-object-places menu-item-8961"><a href="https://eaganmn.com/places/mall-of-america/"><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Mall of America</a></li>
+	<li id="menu-item-3738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3738"><a href="https://eaganmn.com/shopping/central-park-commons/"><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Central Park Commons</a></li>
+	<li id="menu-item-2089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2089"><a href="https://eaganmn.com/shopping/"><span class="icon-star" style="padding-right: 5px;"></span>View All</a></li>
+</ul>
+</li>
+<li id="menu-item-6102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6102"><a href="https://eaganmn.com/enjoyeaganblog/">Blog</a></li>
+<li id="menu-item-9560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9560"><a href="https://eaganmn.com/enjoy/contests/">Contests</a></li>
+</ul></div></nav>
+</div>
+
+
+	
+
+	<!-- BEGIN #hb-wrap -->
+	<div id="hb-wrap">
+
+	<!-- BEGIN #main-wrapper -->
+	<div id="main-wrapper" class="hb-stretched-layout with-footer-separators hb_boxed_layout_regular with-shadow width-1140 hb-responsive nav-type-1" data-cart-url="" data-cart-count=""  data-search-header=1>
+
+		
+						<!-- BEGIN #hb-header -->
+				<header id="hb-header" class="">
+
+					   
+<!-- BEGIN #header-bar -->
+<div id="header-bar" class="style-1 clearfix">
+
+    <!-- BEGIN .container or .container-wide -->
+    <div class="container-wide">
+
+            <!-- BEGIN .top-widget Information -->
+        <div id="top-info-widget" class="top-widget float-left clear-r-margin">
+            <p><i class="hb-moon-arrow-right-5"></i><a href="https://eaganmn.com/enewsletter">eNewsletter</a><a href="https://eaganmn.com/hotels">Book Your Stay</a><a href="https://eaganmn.com/directions-and-transportation">Directions & Transportation</a> <a href="https://eaganmn.com/groups-and-meetings">Groups & Meetings</a><a href= "https://eaganmn.com/press-room/"> Press Room </a><a href="https://eaganmn.com/eaganrestaurantweek/"> Eagan Restaurant Week </a>
+
+</p>
+        </div>
+        <!-- END .top-widget -->
+                <!-- BEGIN .top-widget Custom Link -->
+        <div id="top-custom-link-widget" class="top-widget float-right">
+            <a href="https://eaganmn.com/contact-us"><i class=""></i>Contact Us</a>
+        </div>
+        <!-- END .top-widget -->
+    
+    
+        <!-- BEGIN .top-widget -->
+        <div id="top-socials-widget" class="top-widget float-right social-list">
+            <ul class="clearfix">
+                                                            <li>
+                                <a href="https://www.facebook.com/enjoyeagan" original-title="Facebook" target="_blank"><i class="hb-moon-facebook"></i></a> 
+                            </li>
+                                                                        <li>
+                                <a href="https://www.instagram.com/enjoyeaganminnesota/" original-title="Instagram" target="_blank"><i class="hb-moon-instagram"></i></a> 
+                            </li>
+                                                                        <li>
+                                <a href="https://www.youtube.com/eaganCVB" original-title="Youtube" target="_blank"><i class="hb-moon-youtube"></i></a> 
+                            </li>
+                                        
+            </ul>
+        </div>
+        <!-- END .top-widget -->
+
+    
+    </div>
+    <!-- END .container or .container-wide -->
+
+</div>
+<!-- END #header-bar -->
+
+<div id="header-dropdown">
+    <div id="contact-map" data-map-buttons="1" data-map-level="16" data-map-lat="48.856614" data-map-lng="2.352222" data-map-img="" data-overlay-color="#ff6838"></div>
+    <div class="close-map"><i class="hb-moon-close-2"></i></div>
+</div>					<style type="text/css">
+            #logo img,.stuck #logo img {max-height:82%;}
+            </style>
+        <!-- BEGIN #header-inner -->
+        <div id="header-inner" class="sticky-nav nav-type-1 hb-ajax-search clearfix" style="height: 85px; line-height: 85px;" data-height="85" data-sticky-height="60" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+            
+            
+            <!-- BEGIN #header-bar -->
+            <div id="header-bar" class="style-1 clearfix">
+
+                <!-- BEGIN .container or .container-wide -->
+                <div class="container-wide">
+
+                                    <!-- BEGIN .top-widget Information -->
+                    <div id="top-info-widget" class="top-widget float-left clear-r-margin">
+                        <p><i class="hb-moon-arrow-right-5"></i><a href="https://eaganmn.com/enewsletter">eNewsletter</a><a href="https://eaganmn.com/hotels">Book Your Stay</a><a href="https://eaganmn.com/directions-and-transportation">Directions & Transportation</a> <a href="https://eaganmn.com/groups-and-meetings">Groups & Meetings</a><a href= "https://eaganmn.com/press-room/"> Press Room </a><a href="https://eaganmn.com/eaganrestaurantweek/"> Eagan Restaurant Week </a>
+
+</p>
+                    </div>
+                    <!-- END .top-widget -->
+                                                    <!-- BEGIN .top-widget Custom Link -->
+                    <div id="top-custom-link-widget" class="top-widget float-right">
+                        <a href="https://eaganmn.com/contact-us"><i class=""></i>Contact Us</a>
+                    </div>
+                    <!-- END .top-widget -->
+                
+                
+                    <!-- BEGIN .top-widget -->
+                    <div id="top-socials-widget" class="top-widget float-right social-list">
+                        <ul class="clearfix">
+                                                                                                <li>
+                                            <a href="https://www.facebook.com/enjoyeagan" original-title="Facebook" target="_blank"><i class="hb-moon-facebook"></i></a> 
+                                        </li>
+                                                                                                            <li>
+                                            <a href="https://www.instagram.com/enjoyeaganminnesota/" original-title="Instagram" target="_blank"><i class="hb-moon-instagram"></i></a> 
+                                        </li>
+                                                                                                            <li>
+                                            <a href="https://www.youtube.com/eaganCVB" original-title="Youtube" target="_blank"><i class="hb-moon-youtube"></i></a> 
+                                        </li>
+                                    
+                        </ul>
+                    </div>
+                    <!-- END .top-widget -->
+
+                
+                </div>
+                <!-- END .container or .container-wide -->
+
+            </div>
+            <!-- END #header-bar -->
+
+            <div id="header-dropdown">
+                <div id="contact-map" data-map-buttons="1" data-map-level="16" data-map-lat="48.856614" data-map-lng="2.352222" data-map-img="" data-overlay-color="#ff6838"></div>
+                <div class="close-map"><i class="hb-moon-close-2"></i></div>
+            </div>
+            
+            
+            
+            <!-- BEGIN #header-inner-bg -->
+            <div id="header-inner-bg">
+                
+                <!-- BEGIN .container or .container-wide -->
+                <div class="container">
+                    
+                    <!-- BEGIN #logo -->
+                    <div id="logo" style="height:85px; line-height: 85px;">
+                                                <a href="https://eaganmn.com" class="image-logo">
+
+                            
+                            <span class="hb-dark-logo hb-visible-logo hb-logo-wrap">
+                                <img src="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png" width="318" height="72" class="default" alt="Eagan Minnesota"/>
+                                
+                                                                        <img src="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png" class="retina" width="636" height="144" alt="Eagan Minnesota"/>
+                                                                </span>
+
+                                                            <span class = "hb-light-logo hb-logo-wrap">
+                                    <img src="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png" width="318" height="72" class="default" alt="Eagan Minnesota"/>
+
+                                                                        <img src="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png" class="retina" width="636" height="144" alt="Eagan Minnesota"/>
+                                                                    </span>
+                                                    </a>
+
+                                            </div>
+                    <!-- END #logo -->
+
+                    
+                    
+                    
+                    
+                    <!-- BEGIN .main-navigation -->
+                    <nav class="main-navigation minimal-skin hb-effect-1 light-menu-dropdown clearfix" style="height: 85px; line-height: 85px;" data-height="85" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+                        
+                        <ul id="main-nav" class="sf-menu "><li id="menu-item-10604" class="menu-item menu-item-type-post_type menu-item-object-page no-megamenu"><a href="https://eaganmn.com/deals-and-packages/"><span>Deals &#038; Packages</span></a></li>
+<li id="menu-item-2065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-megamenu"><a href="https://eaganmn.com/things-to-do/"><span>Things to Do</span></a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-2081" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/things-to-do/attractions/"><span><span class="hb-moon-compass" style="padding-right: 5px;"></span>Attractions</span></a></li>
+	<li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/things-to-do/comedy/"><span><span class="hb-moon-mic-5" style="padding-right: 5px;"></span>Comedy</span></a></li>
+	<li id="menu-item-2079" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/things-to-do/museums-historical-sites-art/"><span><span class="hb-moon-library-2" style="padding-right: 5px;"></span>Museums, Historical Sites and Art</span></a></li>
+	<li id="menu-item-2077" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/things-to-do/parks-and-gardens/"><span><span class="hb-moon-tree" style="padding-right: 5px;"></span>Parks and Gardens</span></a></li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/things-to-do/theatres/"><span><span class="hb-moon-movie-2" style="padding-right: 5px;"></span>Theatres</span></a></li>
+	<li id="menu-item-2067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://eaganmn.com/sports/"><span><span class="icon-trophy" style="padding-right: 5px;"></span>Sports</span></a>
+	<ul style="" class="sub-menu ">
+		<li id="menu-item-2082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://eaganmn.com/sports/fans/"><span><span class="hb-moon-megaphone" style="padding-right: 5px;"></span>Fans</span></a>
+		<ul style="" class="sub-menu ">
+			<li id="menu-item-8958" class="menu-item menu-item-type-post_type menu-item-object-places menu-item-has-children"><a href="https://eaganmn.com/places/minnesota-vikings/"><span><span class="hb-moon-football" style="padding-right: 5px;"></span>Minnesota Vikings</span></a>
+			<ul style="" class="sub-menu ">
+				<li id="menu-item-14502" class="menu-item menu-item-type-post_type menu-item-object-places"><a href="https://eaganmn.com/places/vikings-training-camp/"><span>Vikings Training Camp</span></a></li>
+			</ul>
+</li>
+		</ul>
+</li>
+		<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/sports/activities/"><span><span class="hb-moon-basketball" style="padding-right: 5px;"></span>Activities</span></a></li>
+		<li id="menu-item-2075" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/groups-and-meetings/sport-facilities/"><span><span class="icon-trophy" style="padding-right: 5px;"></span>Sport Facilities</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2083" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://eaganmn.com/things-to-do/"><span><span class="icon-star" style="padding-right: 5px;"></span>View All</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2086" class="menu-item menu-item-type-custom menu-item-object-custom no-megamenu"><a href="https://eaganmn.com/events/"><span>Events</span></a></li>
+<li id="menu-item-2063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-megamenu"><a href="https://eaganmn.com/dining/"><span>Dining</span></a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-2074" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/american/"><span><span class="hb-moon-hamburger" style="padding-right: 5px;"></span>American</span></a></li>
+	<li id="menu-item-11913" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/asian/"><span><span class="icon-circle" style="padding-right: 5px;"></span>Asian</span></a></li>
+	<li id="menu-item-2071" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/cafes-and-bakeries/"><span><span class="icon-coffee" style="padding-right: 5px;"></span>Cafes and Bakeries</span></a></li>
+	<li id="menu-item-2072" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/mexican/"><span><span class="icon-food" style="padding-right: 5px;"></span>Mexican</span></a></li>
+	<li id="menu-item-11489" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/pizza/"><span><span class="hb-moon-pie" style="padding-right: 5px;"></span>Pizza</span></a></li>
+	<li id="menu-item-11490" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/dining/takeout/"><span><span class="hb-moon-car" style="padding-right: 5px;"></span>Takeout</span></a></li>
+	<li id="menu-item-2084" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://eaganmn.com/dining/"><span><span class="icon-star" style="padding-right: 5px;"></span>View All</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-megamenu"><a href="https://eaganmn.com/hotels/"><span>Hotels</span></a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/deals-and-packages/"><span><span class="icon-tag" style="padding-right: 5px;"></span>Deals and Packages</span></a></li>
+	<li id="menu-item-2069" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/hotels/sleep-and-fly/"><span><span class="icon-plane" style="padding-right: 5px;"></span>Sleep and Fly</span></a></li>
+	<li id="menu-item-2085" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://eaganmn.com/hotels/"><span><span class="icon-star" style="padding-right: 5px;"></span>View All</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-megamenu"><a href="https://eaganmn.com/shopping/"><span>Shopping</span></a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-8960" class="menu-item menu-item-type-post_type menu-item-object-places"><a href="https://eaganmn.com/places/twin-cities-premium-outlets/"><span><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Twin Cities Premium Outlets</span></a></li>
+	<li id="menu-item-8961" class="menu-item menu-item-type-post_type menu-item-object-places"><a href="https://eaganmn.com/places/mall-of-america/"><span><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Mall of America</span></a></li>
+	<li id="menu-item-3738" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://eaganmn.com/shopping/central-park-commons/"><span><span class="hb-moon-bag-2" style="padding-right: 5px;"></span>Central Park Commons</span></a></li>
+	<li id="menu-item-2089" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://eaganmn.com/shopping/"><span><span class="icon-star" style="padding-right: 5px;"></span>View All</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6102" class="menu-item menu-item-type-post_type menu-item-object-page no-megamenu"><a href="https://eaganmn.com/enjoyeaganblog/"><span>Blog</span></a></li>
+<li id="menu-item-9560" class="menu-item menu-item-type-taxonomy menu-item-object-category no-megamenu"><a href="https://eaganmn.com/enjoy/contests/"><span>Contests</span></a></li>
+</ul>
+                        
+
+                                                <a href="#" id="show-nav-menu"><i class="icon-bars"></i></a>
+                        
+
+                        
+                    </nav>
+                    <!-- END .main-navigation -->
+                    
+                                                </div>
+                        <!-- END .container or .container-wide -->
+                                    </div>
+            <!-- END #header-inner-bg -->
+
+        </div>
+        <!-- END #header-inner -->
+
+
+				</header>
+				<!-- END #hb-header -->
+
+							
+
+<!-- BEGIN #slider-section -->
+<div id="slider-section" class="clearfix " style="">
+			<canvas id="hb-canvas-effect"></canvas>
+	</div>
+<!-- END #slider-section -->		
+<div id="main-content">
+	<div class="container">
+		<div class="row fullwidth main-row">
+			<div class="fl-row-content-wrap">
+				<div class="col-12 hb-main-content">
+					<div class="single-blog-wrapper clearfix" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+						
+						<article id="post-8108" class="post post-8108 places type-places status-publish has-post-thumbnail hentry places_categories-american places_categories-dining places_categories-takeout">
+              <div class="post-header">
+                <h1 class="title entry-title">Chili&#8217;s</h1>
+              </div>
+              <div class="entry-content clearfix" itemprop="text" style="margin-top30px;">
+                <div class="vc_row element-row row">
+                  <div class="vc_col-sm-6 wpb_column vc_column_container" style="padding-right: 40px !important;">
+                    <div class="wpb_wrapper">
+                      <div class="wpb_text_column wpb_content_element  vc_custom_1445348391184">
+                        <div class="wpb_wrapper">
+                          <p>Enjoy something for everyone from our famous Baby Back Ribs, Craft Burgers, Fajitas, Chicken Crispers or Smokehouse Combos.</p>
+<p><strong>All Day Happy Hour</strong>:<br />
+2 for 1 Domestic Tap Beer, Call and Well Drinks and 10 oz Classic Margaritas</p>
+<p><strong>Happy Hour Appetizers</strong>:<br />
+Monday thru Friday: 3pm to 6pm</p>
+                        </div>
+                      </div>
+											<div class="shortcode-wrapper shortcode-spacer clearfix">
+												<div class="spacer" style="height:25px;"></div>
+											</div>
+											<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_dotted vc_sep_border_width_5 vc_sep_pos_align_center vc_sep_color_grey vc_separator-has-text">
+												<span class="vc_sep_holder vc_sep_holder_l">
+													<span class="vc_sep_line"></span>
+												</span>
+												<h4>Information</h4>
+												<span class="vc_sep_holder vc_sep_holder_r">
+													<span class="vc_sep_line"></span>
+												</span>
+											</div>
+                      <div class="vc_row element-row vc_inner row">
+													                        <div class="wpb_column vc_column_container vc_col-sm-6">
+	                          <div class="vc_column-inner">
+	                            <div class="wpb_wrapper">
+	                              <div class="box-phone vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-white" style="margin: 15px 0;">
+	                                <div class="vc_message_box-icon">
+	                                  <i class="fa fa-phone-square"></i>
+	                                </div>
+	                                <p>651-686-5152</p>
+	                              </div>
+	                            </div>
+	                          </div>
+	                        </div>
+													                        <div class="wpb_column vc_column_container vc_col-sm-6">
+	                          <div class="vc_column-inner">
+	                            <div class="wpb_wrapper">
+																																<div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-white box-website" style="margin: 15px 0;">
+																	<div class="vc_message_box-icon"><i class="fa fa-link"></i></div>
+																		<p><a href="http://www.chilis.com/" target="_blank" rel="noopener noreferrer">Visit Website</a></p>
+																</div>
+																	                            </div>
+	                          </div>
+	                        </div>
+												                      </div>
+                      <div class="vc_row element-row vc_inner row">
+                        <div class="wpb_column vc_column_container vc_col-sm-8">
+                          <div class="vc_column-inner">
+                            <div class="wpb_wrapper">
+                              <div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-white vc_do_message box-address" ><div class="vc_message_box-icon"><i class="vc-oi vc-oi-location-alt"></i></div><p>3625 Pilot Knob Road, Eagan, MN 55122</p>
+</div>                            </div>
+                          </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                          <div class="vc_column-inner">
+                            <div class="wpb_wrapper">
+                              <a href="#" class="modal-open hb-button" data-modal-id="hb-modal-4297">Map & Directions</a>                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+									<div class="bordered-wrapper">
+	                  <div class="shortcode-wrapper shortcode-simple-slider hb-flexslider-wrapper"><div class="hb-flexslider init-flexslider clearfix loading" id="flexslider_26649" data-speed="9000" data-pause-on-hover="true" data-control-nav="false" data-direction-nav="true"><ul class="hb-flex-slides clearfix"><li><a href="https://eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg" rel="prettyPhoto&#091;flexslider_26649&#093;" data-title="" alt="Slider Image"><img src="https://eaganmn.com/wp-content/uploads/2019/07/Chilis-Exterior-1_edited.jpg"/></a></li><li><a href="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-2.jpg" rel="prettyPhoto&#091;flexslider_26649&#093;" data-title="" alt="Slider Image"><img src="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-2.jpg"/></a></li><li><a href="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-3.jpg" rel="prettyPhoto&#091;flexslider_26649&#093;" data-title="" alt="Slider Image"><img src="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-3.jpg"/></a></li><li><a href="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-4.jpg" rel="prettyPhoto&#091;flexslider_26649&#093;" data-title="" alt="Slider Image"><img src="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-4.jpg"/></a></li><li><a href="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-5.jpg" rel="prettyPhoto&#091;flexslider_26649&#093;" data-title="" alt="Slider Image"><img src="https://eaganmn.com/wp-content/uploads/2016/08/Chilis-5.jpg"/></a></li></ul></div></div>									</div>
+                </div>
+							</div>
+              <div style="margin-top:20px;">
+                <style>
+                  .vc_custom_1450269407503 {
+                    margin-top:50px;
+                  }
+                </style>
+                <div class="fw-section hb-fw-6924e62b871c7 without-border no-overlay" style="background-color:#dddddd;margin-bottom:-20px !important;margin-top:0px !important;"><div class="vc_row element-row row vc_custom_1440342378111 fw-content-wrap">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			<style type="text/css">a.eg-henryharrison-element-1,a.eg-henryharrison-element-2{-webkit-transition:all .4s linear;   -moz-transition:all .4s linear;   -o-transition:all .4s linear;   -ms-transition:all .4s linear;   transition:all .4s linear}.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}.eg-harding-element-17{letter-spacing:1px}.eg-harding-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-harding-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-herbert-hoover-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-herbert-hoover-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-lyndon-johnson-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-media img{-webkit-transition:0.4s ease-in-out;  -moz-transition:0.4s ease-in-out;  -o-transition:0.4s ease-in-out;  transition:0.4s ease-in-out;  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-wilbert-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-phillie-element-3:after{content:" ";width:0px;height:0px;border-style:solid;border-width:5px 5px 0 5px;border-color:#000 transparent transparent transparent;left:50%;margin-left:-5px; bottom:-5px; position:absolute}.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}</style>
+<style type="text/css">.minimal-light .navigationbuttons,.minimal-light .esg-pagination,.minimal-light .esg-filters{text-align:center}.minimal-light .esg-filterbutton,.minimal-light .esg-navigationbutton,.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton a{color:#999; margin-right:5px; cursor:pointer; padding:0px 16px; border:1px solid #e5e5e5; line-height:38px; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; font-size:12px; font-weight:700; font-family:"Open Sans",sans-serif; display:inline-block; background:#fff; margin-bottom:5px}.minimal-light .esg-navigationbutton *{color:#999}.minimal-light .esg-navigationbutton{padding:0px 16px}.minimal-light .esg-pagination-button:last-child{margin-right:0}.minimal-light .esg-left,.minimal-light .esg-right{padding:0px 11px}.minimal-light .esg-sortbutton-wrapper,.minimal-light .esg-cartbutton-wrapper{display:inline-block}.minimal-light .esg-sortbutton-order,.minimal-light .esg-cartbutton-order{display:inline-block;  vertical-align:top;  border:1px solid #e5e5e5;  width:40px;  line-height:38px;  border-radius:0px 5px 5px 0px;  -moz-border-radius:0px 5px 5px 0px;  -webkit-border-radius:0px 5px 5px 0px;  font-size:12px;  font-weight:700;  color:#999;  cursor:pointer;  background:#fff}.minimal-light .esg-cartbutton{color:#333; cursor:default !important}.minimal-light .esg-cartbutton .esgicon-basket{color:#333;   font-size:15px;   line-height:15px;   margin-right:10px}.minimal-light .esg-cartbutton-wrapper{cursor:default !important}.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton{display:inline-block; position:relative; cursor:pointer; margin-right:0px; border-right:none; border-radius:5px 0px 0px 5px; -moz-border-radius:5px 0px 0px 5px; -webkit-border-radius:5px 0px 0px 5px}.minimal-light .esg-navigationbutton:hover,.minimal-light .esg-filterbutton:hover,.minimal-light .esg-sortbutton:hover,.minimal-light .esg-sortbutton-order:hover,.minimal-light .esg-cartbutton a:hover,.minimal-light .esg-filterbutton.selected{background-color:#fff;   border-color:#bbb;   color:#333;   box-shadow:0px 3px 5px 0px rgba(0,0,0,0.13)}.minimal-light .esg-navigationbutton:hover *{color:#333}.minimal-light .esg-sortbutton-order.tp-desc:hover{border-color:#bbb; color:#333; box-shadow:0px -3px 5px 0px rgba(0,0,0,0.13) !important}.minimal-light .esg-filter-checked{padding:1px 3px;  color:#cbcbcb;  background:#cbcbcb;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.minimal-light .esg-filterbutton.selected .esg-filter-checked,.minimal-light .esg-filterbutton:hover .esg-filter-checked{padding:1px 3px 1px 3px;  color:#fff;  background:#000;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}</style>
+<!-- ESSENTIAL GRID SKIN CSS -->
+<style type="text/css">.eg-essential-preview-container{background-color:rgba(10,10,10,0.75)}</style>
+<style type="text/css">.eg-essential-preview-content{background-color:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:transparent; border-style:none; text-align:center}</style>
+<style type="text/css">.esg-grid .mainul li.eg-essential-preview-wrapper{background-color:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:#000000; border-style:none}</style>
+<!-- ESSENTIAL GRID END SKIN CSS -->
+
+<!-- THE ESSENTIAL GRID 2.0.9.1 -->
+
+<!-- GRID WRAPPER FOR CONTAINER SIZING - HERE YOU CAN SET THE CONTAINER SIZE AND CONTAINER SKIN -->
+<article class="myportfolio-container minimal-light" id="esg-grid-1-1-wrap">
+
+    <!-- THE GRID ITSELF WITH FILTERS, PAGINATION, SORTING ETC... -->
+    <div id="esg-grid-1-1" class="esg-grid" style="background-color: transparent;padding: 30px 0px 30px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;">
+<!-- ############################ -->
+<!-- THE GRID ITSELF WITH ENTRIES -->
+<!-- ############################ -->
+<ul>
+<!-- PORTFOLIO ITEM 40 -->
+<li class="filterall eg-essential-preview-wrapper">
+    <!-- THE CONTAINER FOR THE MEDIA AND THE COVER EFFECTS -->
+    <div class="esg-media-cover-wrapper">
+            <!-- THE MEDIA OF THE ENTRY -->
+<div class="esg-entry-media"><img src="https://eaganmn.com/wp-content/uploads/2015/09/tcpo-pyp-logo.jpg" alt=""></div>
+
+            <!-- THE CONTENT OF THE ENTRY -->
+            <div class="esg-entry-cover" data-clickable="on">
+
+                <!-- THE COLORED OVERLAY -->
+<a class="eg-invisiblebutton" href="https://eaganmn.com/places/twin-cities-premium-outlets/" target="_blank"></a>                <div class="esg-overlay esg-fade eg-essential-preview-container" data-delay="0"></div>
+
+              <div class="esg-center eg-essential-preview-element-9 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+           </div><!-- END OF THE CONTENT IN THE ENTRY -->
+   </div><!-- END OF THE CONTAINER FOR THE MEDIA AND COVER/HOVER EFFECTS -->
+
+</li><!-- END OF PORTFOLIO ITEM -->
+<!-- PORTFOLIO ITEM 40 -->
+<li class="filterall eg-essential-preview-wrapper">
+    <!-- THE CONTAINER FOR THE MEDIA AND THE COVER EFFECTS -->
+    <div class="esg-media-cover-wrapper">
+            <!-- THE MEDIA OF THE ENTRY -->
+<div class="esg-entry-media"><img src="https://eaganmn.com/wp-content/uploads/2017/01/SEA-LIFE-Mall-of-America-Blue-text-CMYK_resized.jpg" alt=""></div>
+
+            <!-- THE CONTENT OF THE ENTRY -->
+            <div class="esg-entry-cover" data-clickable="on">
+
+                <!-- THE COLORED OVERLAY -->
+<a class="eg-invisiblebutton" href="https://eaganmn.com/places/sea-life-at-mall-of-america/" target="_blank"></a>                <div class="esg-overlay esg-fade eg-essential-preview-container" data-delay="0"></div>
+
+              <div class="esg-center eg-essential-preview-element-9 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+           </div><!-- END OF THE CONTENT IN THE ENTRY -->
+   </div><!-- END OF THE CONTAINER FOR THE MEDIA AND COVER/HOVER EFFECTS -->
+
+</li><!-- END OF PORTFOLIO ITEM -->
+<!-- PORTFOLIO ITEM 40 -->
+<li class="filterall eg-essential-preview-wrapper">
+    <!-- THE CONTAINER FOR THE MEDIA AND THE COVER EFFECTS -->
+    <div class="esg-media-cover-wrapper">
+            <!-- THE MEDIA OF THE ENTRY -->
+<div class="esg-entry-media"><img src="https://eaganmn.com/wp-content/uploads/2015/10/mn-zoo-logo.jpg" alt=""></div>
+
+            <!-- THE CONTENT OF THE ENTRY -->
+            <div class="esg-entry-cover" data-clickable="on">
+
+                <!-- THE COLORED OVERLAY -->
+<a class="eg-invisiblebutton" href="https://eaganmn.com/places/minnesota-zoo/" target="_blank"></a>                <div class="esg-overlay esg-fade eg-essential-preview-container" data-delay="0"></div>
+
+              <div class="esg-center eg-essential-preview-element-9 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+           </div><!-- END OF THE CONTENT IN THE ENTRY -->
+   </div><!-- END OF THE CONTAINER FOR THE MEDIA AND COVER/HOVER EFFECTS -->
+
+</li><!-- END OF PORTFOLIO ITEM -->
+<!-- PORTFOLIO ITEM 40 -->
+<li class="filterall eg-essential-preview-wrapper">
+    <!-- THE CONTAINER FOR THE MEDIA AND THE COVER EFFECTS -->
+    <div class="esg-media-cover-wrapper">
+            <!-- THE MEDIA OF THE ENTRY -->
+<div class="esg-entry-media"><img src="https://eaganmn.com/wp-content/uploads/2015/08/moa.jpg" alt=""></div>
+
+            <!-- THE CONTENT OF THE ENTRY -->
+            <div class="esg-entry-cover" data-clickable="on">
+
+                <!-- THE COLORED OVERLAY -->
+<a class="eg-invisiblebutton" href="https://eaganmn.com/places/mall-of-america/" target="_blank"></a>                <div class="esg-overlay esg-fade eg-essential-preview-container" data-delay="0"></div>
+
+              <div class="esg-center eg-essential-preview-element-9 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+           </div><!-- END OF THE CONTENT IN THE ENTRY -->
+   </div><!-- END OF THE CONTAINER FOR THE MEDIA AND COVER/HOVER EFFECTS -->
+
+</li><!-- END OF PORTFOLIO ITEM -->
+</ul>
+<!-- ############################ -->
+<!--      END OF THE GRID         -->
+<!-- ############################ -->
+    </div><!-- END OF THE GRID -->
+
+</article>
+<!-- END OF THE GRID WRAPPER -->
+
+<div class="clear"></div>
+<script type="text/javascript">
+function eggbfc(winw,resultoption) {
+	var lasttop = winw,
+	lastbottom = 0,
+	smallest =9999,
+	largest = 0,
+	samount = 0,
+	lamoung = 0,
+	lastamount = 0,
+	resultid = 0,
+	resultidb = 0,
+	responsiveEntries = [
+						{ width:1400,amount:4},
+						{ width:1170,amount:4},
+						{ width:1024,amount:4},
+						{ width:960,amount:4},
+						{ width:778,amount:4},
+						{ width:640,amount:1},
+						{ width:480,amount:1}
+						];
+	if (responsiveEntries!=undefined && responsiveEntries.length>0)
+		jQuery.each(responsiveEntries, function(index,obj) {
+			var curw = obj.width != undefined ? obj.width : 0,
+				cura = obj.amount != undefined ? obj.amount : 0;
+			if (smallest>curw) {
+				smallest = curw;
+				samount = cura;
+				resultidb = index;
+			}
+			if (largest<curw) {
+				largest = curw;
+				lamount = cura;
+			}
+			if (curw>lastbottom && curw<=lasttop) {
+				lastbottom = curw;
+				lastamount = cura;
+				resultid = index;
+			}
+		})
+		if (smallest>winw) {
+			lastamount = samount;
+			resultid = resultidb;
+		}
+		var obj = new Object;
+		obj.index = resultid;
+		obj.column = lastamount;
+		if (resultoption=="id")
+			return obj;
+		else
+			return lastamount;
+	}
+if ("even"=="even") {
+	var coh=0,
+		container = jQuery("#esg-grid-1-1");
+	var	cwidth = container.width(),
+		ar = "5:3",
+		gbfc = eggbfc(jQuery(window).width(),"id"),
+	row = 4;
+ar = ar.split(":");
+aratio=parseInt(ar[0],0) / parseInt(ar[1],0);
+coh = cwidth / aratio;
+coh = coh/gbfc.column*row;
+	var ul = container.find("ul").first();
+	ul.css({display:"block",height:coh+"px"});
+}
+var essapi_1;
+jQuery(document).ready(function() {
+	essapi_1 = jQuery("#esg-grid-1-1").tpessential({
+        gridID:1,
+        layout:"even",
+        forceFullWidth:"off",
+        lazyLoad:"off",
+        row:4,
+        loadMoreAjaxToken:"d56dc48446",
+        loadMoreAjaxUrl:"https://eaganmn.com/wp-admin/admin-ajax.php",
+        loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
+        ajaxContentTarget:"ess-grid-ajax-container-",
+        ajaxScrollToOffset:"0",
+        ajaxCloseButton:"off",
+        ajaxContentSliding:"on",
+        ajaxScrollToOnLoad:"on",
+        ajaxNavButton:"off",
+        ajaxCloseType:"type1",
+        ajaxCloseInner:"false",
+        ajaxCloseStyle:"light",
+        ajaxClosePosition:"tr",
+        space:50,
+        pageAnimation:"fade",
+        paginationScrollToTop:"off",
+        spinner:"spinner0",
+        evenGridMasonrySkinPusher:"off",
+        lightBoxMode:"single",
+        animSpeed:1000,
+        delayBasic:1,
+        mainhoverdelay:1,
+        filterType:"single",
+        showDropFilter:"hover",
+        filterGroupClass:"esg-fgc-1",
+        googleFonts:['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700'],
+        aspectratio:"5:3",
+        responsiveEntries: [
+						{ width:1400,amount:4},
+						{ width:1170,amount:4},
+						{ width:1024,amount:4},
+						{ width:960,amount:4},
+						{ width:778,amount:4},
+						{ width:640,amount:1},
+						{ width:480,amount:1}
+						]
+	});
+
+});
+</script>
+
+		</div> 
+	</div> 
+</div><div class="video-overlay no-overlay"></div></div>              </div>
+						</article>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Back to Top Button -->
+<a id="to-top"><i class="hb-moon-arrow-up-4"></i></a>
+<!-- END #to-top -->
+
+<!-- BEGIN #contact-panel -->
+<aside id="contact-panel">
+	<h4 class="hb-focus-color">Contact Us</h4>
+	<p>Send us an email and we'll get back to you as soon as possible.</p>
+
+	<form id="contact-panel-form">
+		<p><input type="text" placeholder="Name" name="hb_contact_name" id="hb_contact_name_id" class="required requiredField" tabindex="33"/></p>
+		<p><input type="email" placeholder="Email" name="hb_contact_email" id="hb_contact_email_id" class="required requiredField" tabindex="34"/></p>
+		<p><input type="text" placeholder="Subject" name="hb_contact_subject" id="hb_contact_subject_id"/></p>
+		<p><textarea placeholder="Your message..." name="hb_contact_message" id="hb_contact_message_id" class="required requiredField" tabindex="35"></textarea></p>
+		<a href="#" id="hb-submit-contact-panel-form" class="hb-button no-three-d hb-push-button hb-asbestos hb-small-button">
+			<span class="hb-push-button-icon">
+				<i class="hb-moon-paper-plane"></i>
+			</span>
+			<span class="hb-push-button-text">Send Message</span>
+		</a>
+		<input type="hidden" id="success_text" value="Message Sent!"/>
+	</form>
+
+</aside>
+<!-- END #contact-panel -->
+
+<!-- BEGIN #hb-contact-button -->
+<a id="contact-button"><i class="hb-moon-envelop"></i></a>
+<!-- END #hb-contact-button -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7957186-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e685678d3b6e990d6f07844aa/b3b307441095ef8389aabe272.js");</script>
+
+<script id="visit_widget_script_tag" type="text/javascript" src="https://scripts.visitwidget.com/eaganmn.visitwidget.com/option%202_compass/visit_widget.js"></script>
+<script type="text/javascript" src="https://scripts.visitwidget.com/eaganmn.visitwidget.com/app_banner_config.js"></script>
+<script type="text/javascript" src="https://scripts.visitwidget.com/app_banner.min.js"></script><script type="text/javascript"><script type="text/javascript">
+var utag_data = {
+sizmek_activity_id : "", //
+sizmek_tag_id : "", // Sizmek Tag ID (TID)
+page_name : "", // Contains a user-friendly name for the page.
+page_section : "", // Contains a user-friendly page section, e.g. 'configuration section'.
+page_category : "", // Contains a user-friendly page category, e.g. 'appliance page'.
+page_subcategory : "", // Contains a user-friendly page subcategory, e.g. 'refrigerator page'.
+page_type : "", // Contains a user-friendly page type, e.g. 'cart page'.
+search_term : "", // Contains the search term or query submitted by a visitor.
+search_results : "", // Contains the number of results returned with a search query.
+search_type : "", // Contains the type of search conducted by the visitor.
+parent_title : "", // Title of parent window
+parent_domain : "", // Domain of parent window
+parent_pathname : "", // Pathname of parent window
+parent_url : "", // URL of parent window
+parent_referrer : "", // Referrer of parent window
+sizmek_cn : "", // Sizmek CN
+sizmek_tag_type : "", // Sizmek Tag Type
+sizmek_tval : "", // Sizmek TVAL
+doubleclick_id : "", // Doubleclick Type
+doubleclick_type : "", //
+doubleclick_category : "", //
+google_tracking_id : "", //
+google_tracker_name : "" // Google Tracker Name
+}
+</script>
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+(function(a,b,c,d){ a='//tags.tiqcdn.com/utag/advantagepublisherservices/aps/prod/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script></script>
+
+
+<!-- BEGIN #footer OPTION light-style -->
+<footer id="footer" class="dark-style" >
+	
+	<!-- BEGIN .container -->
+	<div class="container">
+		<div class="row footer-row">
+
+	<div class="col-4 widget-column"><div id="block-4" class="widget-item widget_block">
+<h4 class="wp-block-heading" id="upcoming-events">Upcoming Events </h4>
+</div><div id="block-3" class="widget-item widget_block widget_media_image">
+<figure class="wp-block-image size-medium"><a href="https://eaganmn.com/events/" target="_blank"><img loading="lazy" decoding="async" width="264" height="300" src="https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-264x300.png" alt="" class="wp-image-13878" srcset="https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-264x300.png 264w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-528x600.png 528w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-45x51.png 45w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-768x873.png 768w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-900x1023.png 900w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-308x350.png 308w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1-88x100.png 88w, https://eaganmn.com/wp-content/uploads/2022/02/Calendar-3-1.png 1057w" sizes="auto, (max-width: 264px) 100vw, 264px" /></a><figcaption>Click the Calendar to Start Planning! </figcaption></figure>
+</div></div><div class="col-4 widget-column"><div id="custom_html-12" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><h4>Stay and Save</h4></div></div><div id="block-8" class="widget-item widget_block"><div class="row-tmm">
+  <div class="column-tmm">
+    <div id="custom_html-3" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><a href="/hotels/">Hotels</a></div></div>
+<div id="custom_html-4" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><a href="/deals-and-packages/">Deals and Packages</a></div></div>
+<div id="custom_html-5" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><a href="/enjoy/contests/"> Contests</a></div></div>
+<div id="custom_html-6" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><a href="/sleep-and-fly/">Sleep and Fly</a></div></div>
+<div id="custom_html-7" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><a href="/deals-and-packages/coupons">Enjoy Eagan Coupons</a></div></div>
+</div>
+<div class="column-tmm-2">
+</div>
+</div></div><div id="custom_html-10" class="widget_text widget-item widget_custom_html"><div class="textwidget custom-html-widget"><div class="spacer" style="height:20px;"></div></div></div><div id="media_image-4" class="widget-item widget_media_image"><a href="https://eaganmn.com/pick-your-package/"><img width="500" height="300" src="https://eaganmn.com/wp-content/uploads/2021/01/PYP-Homepage-2021-1.jpg" class="image wp-image-11556  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://eaganmn.com/wp-content/uploads/2021/01/PYP-Homepage-2021-1.jpg 500w, https://eaganmn.com/wp-content/uploads/2021/01/PYP-Homepage-2021-1-85x51.jpg 85w, https://eaganmn.com/wp-content/uploads/2021/01/PYP-Homepage-2021-1-100x60.jpg 100w" sizes="auto, (max-width: 500px) 100vw, 500px" /></a></div><div id="block-13" class="widget-item widget_block">
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div id="block-12" class="widget-item widget_block widget_text">
+<p><a href="https://eaganmn.com/wp-content/uploads/2025/10/Enjoy-Eagan-Privacy-Policy-2025.pdf" target="_blank" rel="noreferrer noopener">Privacy Policy</a></p>
+</div></div><div class="col-4 widget-column"><div id="block-6" class="widget-item widget_block"><h4>Connect</h4></div><div id="block-9" class="widget-item widget_block"><div class="row-tmm">
+<div class="column-tmm">
+<div id="custom_html-3" class="widget_text widget-item widget_custom_html">
+<div class="textwidget custom-html-widget"><a href="visitors-guide">Request a Visitors Guide</a></div>
+</div>
+</div>
+<div class="column-tmm-2">
+</div>
+</div></div><div id="block-10" class="widget-item widget_block">
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div id="block-7" class="widget-item widget_block"><div class="wp-widget-group__inner-blocks"></div></div><div id="media_image-5" class="widget-item widget_media_image"><img width="365" height="159" src="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png" class="image wp-image-9150  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic.png 365w, https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic-117x51.png 117w, https://eaganmn.com/wp-content/uploads/2019/09/Enjoy-Eagan_White_Classic-100x44.png 100w" sizes="auto, (max-width: 365px) 100vw, 365px" /></div><div id="block-5" class="widget-item widget_block widget_media_image">
+<figure class="wp-block-image size-full"><a href="https://www.exploreminnesota.com/" target="_blank"><img loading="lazy" decoding="async" width="695" height="104" src="https://eaganmn.com/wp-content/uploads/2022/02/EMT-Logo-trans-dark-background-1.gif" alt="" class="wp-image-13876"/></a></figure>
+</div></div><div class="hidden widget-column"></div>		</div>		
+	</div>
+	<!-- END .container -->
+
+</footer>
+<!-- END #footer -->
+
+<!-- BEGIN #copyright-wrapper -->
+<div id="copyright-wrapper" class="normal-copyright  clearfix"> <!-- Simple copyright opcija light style opcija-->
+
+	<!-- BEGIN .container -->
+	<div class="container">
+
+		<!-- BEGIN #copyright-text -->
+		<div id="copyright-text">
+			<p>©2025 · Eagan Convention &amp; Visitors Bureau | 651-675-5546 | 866-324-2620
+
+			
+			
+
+			
+			</p>
+		</div>
+		<!-- END #copyright-text -->
+
+		
+	</div> 
+	<!-- END .container -->
+
+</div>
+<!-- END #copyright-wrapper -->
+
+
+</div>
+<!-- END #main-wrapper -->
+
+</div>
+<!-- END #hb-wrap -->
+
+
+
+	<!-- BEGIN #fancy-search -->
+	<div id="modern-search-overlay">
+		<a href="#" class="hb-modern-search-close"><i class="hb-icon-x"></i></a>
+
+		<div class="table-middle hb-modern-search-content">
+			<p>Type and press Enter to search</p>
+			
+			<form method="get" id="hb-modern-form" action="https://eaganmn.com/" novalidate="" autocomplete="off">
+				<input type="text" value="" name="s" id="hb-modern-search-input" autocomplete="off">
+			</form>
+		</div>
+
+	</div>
+
+<!-- BEGIN #hb-modal-overlay -->
+<div id="hb-modal-overlay"></div>
+<!-- END #hb-modal-overlay -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/HighendWP-child\/*","\/wp-content\/themes\/HighendWP\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- WP Audio player plugin v1.9.15 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://eaganmn.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+                    soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <!-- Custom Facebook Feed JS -->
+<script type="text/javascript">var cffajaxurl = "https://eaganmn.com/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";
+</script>
+<!-- HFCM by 99 Robots - Snippet # 2: Footer Scripts -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLX3TB2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "7b8d2285b4880c5c7d88de43d232b29c"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+
+<!-- Tracking tag. Place in the <body> section of webpage -->
+<!-- Privacy policy at http://tag.brandcdn.com/privacy -->
+<script type="text/javascript" src="//tag.brandcdn.com/autoscript/eaganconventionvisitorsbureau_vfzsuk5vouvvvda9/ecvbrw.js"></script>
+<!-- /end HFCM by 99 Robots -->
+        <script>
+            function isOldIOSDevice() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+                // Check if it's an iOS device
+                const isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
+
+                if (!isIOS) return false;
+
+                // Extract iOS version from userAgent
+                const match = userAgent.match(/OS (\d+)_/);
+                if (match && match.length > 1) {
+                    const majorVersion = parseInt(match[1], 10);
+
+                    // Example: Consider iOS 12 and below as old
+                    return majorVersion <= 12;
+                }
+
+                // If version not found, assume not old
+                return false;
+            }
+            if (isOldIOSDevice()) {
+                document.addEventListener('DOMContentLoaded', function() {
+                    setTimeout(() => {
+                        document.querySelectorAll('audio:not(.plyr audio)').forEach(function(audio, index) {
+                            audio.setAttribute('controls', '')
+                        });
+                    }, 3000);
+                });
+            }
+            // ios old devices
+        </script>
+		<svg width="0" height="0" class="h5ap_svg_hidden" style="display: none;">
+			<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 511.997 511.997" id="exchange">
+				<path d="M467.938 87.164L387.063 5.652c-7.438-7.495-19.531-7.54-27.02-.108s-7.54 19.525-.108 27.014l67.471 68.006-67.42 67.42c-7.464 7.457-7.464 19.557 0 27.014 3.732 3.732 8.616 5.598 13.507 5.598s9.781-1.866 13.513-5.591l80.876-80.876c7.443-7.44 7.463-19.495.056-26.965z"></path>
+				<path d="M455.005 81.509H56.995c-10.552 0-19.104 8.552-19.104 19.104v147.741c0 10.552 8.552 19.104 19.104 19.104s19.104-8.552 19.104-19.104V119.718h378.905c10.552 0 19.104-8.552 19.104-19.104.001-10.552-8.551-19.105-19.103-19.105zM83.964 411.431l67.42-67.413c7.457-7.457 7.464-19.55 0-27.014-7.463-7.464-19.563-7.464-27.02 0l-80.876 80.869c-7.444 7.438-7.47 19.493-.057 26.963l80.876 81.512a19.064 19.064 0 0013.564 5.649c4.865 0 9.731-1.847 13.456-5.54 7.489-7.432 7.54-19.525.108-27.02l-67.471-68.006z"></path>
+				<path d="M454.368 238.166c-10.552 0-19.104 8.552-19.104 19.104v135.005H56.995c-10.552 0-19.104 8.552-19.104 19.104s8.552 19.104 19.104 19.104h397.38c10.552 0 19.104-8.552 19.098-19.104V257.271c-.001-10.552-8.553-19.105-19.105-19.105z"></path>
+			</symbol>
+		</svg>
+		<svg width="0" height="0" class="h5ap_svg_hidden" style="display: none;">
+			<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 477.88 477.88" id="shuffle">
+				<path d="M472.897 124.269a.892.892 0 01-.03-.031l-.017.017-68.267-68.267c-6.78-6.548-17.584-6.36-24.132.42-6.388 6.614-6.388 17.099 0 23.713l39.151 39.151h-95.334c-65.948.075-119.391 53.518-119.467 119.467-.056 47.105-38.228 85.277-85.333 85.333h-102.4C7.641 324.072 0 331.713 0 341.139s7.641 17.067 17.067 17.067h102.4c65.948-.075 119.391-53.518 119.467-119.467.056-47.105 38.228-85.277 85.333-85.333h95.334l-39.134 39.134c-6.78 6.548-6.968 17.353-.419 24.132 6.548 6.78 17.353 6.968 24.132.419.142-.137.282-.277.419-.419l68.267-68.267c6.674-6.657 6.687-17.463.031-24.136z"></path>
+				<path d="M472.897 329.069l-.03-.03-.017.017-68.267-68.267c-6.78-6.548-17.584-6.36-24.132.42-6.388 6.614-6.388 17.099 0 23.712l39.151 39.151h-95.334a85.209 85.209 0 01-56.9-21.726c-7.081-6.222-17.864-5.525-24.086 1.555-6.14 6.988-5.553 17.605 1.319 23.874a119.28 119.28 0 0079.667 30.43h95.334l-39.134 39.134c-6.78 6.548-6.968 17.352-.42 24.132 6.548 6.78 17.352 6.968 24.132.42.142-.138.282-.277.42-.42l68.267-68.267c6.673-6.656 6.686-17.462.03-24.135zM199.134 149.702a119.28 119.28 0 00-79.667-30.43h-102.4C7.641 119.272 0 126.913 0 136.339s7.641 17.067 17.067 17.067h102.4a85.209 85.209 0 0156.9 21.726c7.081 6.222 17.864 5.525 24.086-1.555 6.14-6.989 5.553-17.606-1.319-23.875z"></path>
+			</symbol>
+		</svg>
+		<script>
+			const single_player = document.querySelectorAll(".h5ap_single_button");
+			single_player.forEach(item => {
+				const audio = item.querySelector("audio");
+				audio.volume = 0.6;
+				item.querySelector('.play').addEventListener("click", function() {
+					single_player.forEach(player => {
+						player.querySelector("audio")?.pause();
+					})
+					setTimeout(() => {
+						audio.currentTime = 0;
+						audio.play();
+					}, 0);
+
+				});
+
+				item.querySelector('.pause').style.display = 'none';
+				item.querySelector('.pause').addEventListener("click", function() {
+					audio.pause();
+				});
+
+				audio.addEventListener("ended", () => {
+					item.querySelector(".play").style.display = 'inline-block';
+					item.querySelector(".pause").style.display = 'none';
+				});
+
+				audio.addEventListener("pause", () => {
+					item.querySelector(".play").style.display = 'inline-block';
+					item.querySelector(".pause").style.display = 'none';
+				});
+				audio.addEventListener("play", () => {
+					item.querySelector(".play").style.display = 'none';
+					item.querySelector(".pause").style.display = 'inline-block';
+				});
+
+			})
+		</script>
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://eaganmn.com/wp-admin/admin-ajax.php";
+</script>
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script>
+
+<link rel='stylesheet' id='js_composer_front-css' href='https://eaganmn.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_openiconic-css' href='https://eaganmn.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/vc_openiconic.min.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js" id="tec-user-agent-js"></script>
+<script type="text/javascript" id="pt-cv-content-views-script-js-extra">
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"5aba058281","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/eaganmn.com\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js" id="pt-cv-content-views-script-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js" id="cffscripts-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.scrollTo.js" id="hb_scrollto-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/scripts.js" id="hb_scripts-js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi" id="hb_gmap-js"></script>
+<script type="text/javascript" id="hb_map-js-extra">
+/* <![CDATA[ */
+var hb_gmap = {"1":{"lat":"48.856614","lng":"2.352222","ibx":"Enter your info here or leave it empty."}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/map.js" id="hb_map-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/mediaelement/mediaelement.js" id="hb_mediaelement-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.flexslider.js" id="hb_flexslider-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.validate.js" id="hb_validate-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.countdown.js" id="hb_countdown-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.easychart.js" id="hb_easychart-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/responsivecarousel.min.js" id="hb_carousel-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/jquery/ui/menu.min.js" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/dist/dom-ready.min.js" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/dist/a11y.min.js" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-includes/js/jquery/ui/autocomplete.min.js" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/themes/HighendWP/scripts/jquery.custom.js" id="hb_jquery_custom-js"></script>
+<script type="text/javascript" src="https://eaganmn.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
+<script></script><div class="crop-here"><div class="hb-modal-window" id="hb-modal-4297"><div class="hb-box-cont clearfix"><div class="hb-box-cont-header">Chilis Bar & Grill<a href="#" class="close-modal" data-close-id="hb-modal-4297"><i class="hb-moon-close-2"></i></a></div><div class="hb-box-cont-body"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2829.8438213609543!2d-93.16936568446387!3d44.82474627909863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb29eb050d9c5ba20!2sChilis+Grill+%26+Bar!5e0!3m2!1sen!2sus!4v1491315198732" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div></div></div></div><script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init(); }; h.appendChild(s); })(); </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"cd74193fb47a44f79516d7a913cd56ec","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+<!-- END body -->
+
+</html>
+<!-- END html -->
